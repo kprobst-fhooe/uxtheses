@@ -1,4 +1,4 @@
-# Theses Guide
+# Thesis Guide
 
 Welcome to my personal Thesis Guide! 
 
