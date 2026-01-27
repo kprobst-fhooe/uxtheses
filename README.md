@@ -91,7 +91,7 @@ Important points are highlighted in **bold**, super-important points are indicat
   * scientific paper references (@inproceedings) should include: date, author, title, booktitle, page / article number, DOI
   * journal article references (@article) should include: date, authos, title, journal, page / article number, DOI
   * web references (@online) should include: date, authors, title, url, urldate
-- Are results that are too detailed for the main part of the work moved to the appendix? e.g. figures that would take up too much space in the main part or are not essential, details on the study design if too detailed for the main part (such as questions asked in interviews/questionnaires), results from studies that would be too detailed for the main part...
+- Appendix ("Anhang"): This is to be added at the end of the thesis and should include ressources that you feel are too detailed for the main manuscript, but might still be interesting for readers of your thesis e.g. figures that would take up too much space or are not essential, details on the study design if too much for the main part (such as questions asked in interviews/questionnaires), tables or fiugres with detailed study results etc.
 
 
 ### Final Check Before Submission
@@ -102,6 +102,17 @@ Important points are highlighted in **bold**, super-important points are indicat
 - **Kurzfassung:** Content / Grammar / Spelling should be flawless
 - **Abstract:** Content / Grammar / Spelling should be flawless -> preferrably validated by a native speaker
 - **Masurement Box** on the last page is for validation during printing, **remove for the final submission!**
+  
+
+
+### Supplementary Materials
+
+After submitting your thesis, you will be asked to submit supplementary materials (ideally as ZIP-file directly sent to me) including:
+- PDF exports of any temporary (mostly web) sources, i.e., those that don't have a unique identifier such as an ISBN or DOI
+- Images used in the thesis in maximum quality, i.e., high-resolution pixel graphics, svg vector graphics
+- any types of documents created throughout the thesis process, e.g., concepts, structures, datasets...
+- any types of prototypes created throughout the thesis process, e.g., Figma prototypes (.fig), sketches...
+- any raw data collected during user studies, e.g., raw data from queestionnaires, transcripts, audio/video recordings...
 
 
 
