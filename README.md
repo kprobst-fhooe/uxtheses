@@ -4,6 +4,8 @@ Welcome to my personal Thesis Guide!
 
 Over the past few years, I have compiled this guide based on my own experiences coaching students on their Bachelor's and Master's theses. As such, the guide aims to provide you with practical advice to help you navigate the thesis creation process.
 
+PS: If you are also interested in internships or jobs in the UX domain, feel free to check out my [internship guide](https://github.com/kprobst-fhooe/hgbinternships). 
+
 
 ## HGBThesisTutorial
 
