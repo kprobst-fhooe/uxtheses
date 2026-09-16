@@ -105,7 +105,7 @@ Important points are highlighted in **bold**, super-important points are indicat
   
 
 
-### Supplementary Materials
+### Supplementary Materials ‼️
 
 After submitting your thesis, you will be asked to submit supplementary materials (ideally as ZIP-file directly sent to me) including:
 - PDF exports of any temporary (mostly web) sources, i.e., those that don't have a unique identifier such as an ISBN or DOI
@@ -115,9 +115,3 @@ After submitting your thesis, you will be asked to submit supplementary material
 - any raw data collected during user studies, e.g., raw data from queestionnaires, transcripts, audio/video recordings...
 
 
-
-## Inspiration
-
-This section includes some positive examples of former students, who solved some aspects of their theses quite nicely:
-
-Section in progress...
