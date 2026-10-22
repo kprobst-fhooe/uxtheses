@@ -28,7 +28,7 @@ Important points are highlighted in **bold**, super-important points are indicat
 
 Please note that, starting with the 2026/2027 academic year, all theses must include documentation of any AI tools used in the preparation of the thesis. Two documentation formats are available: a short version (Kurzfassung) and a long version (Langfassung). The required format is specified by the respective degree programme.
 
-The statutory declaration must also acknowledge the use of both sources and auxiliary tools (Hilfsmittel), including AI tools where applicable. Please use the official template provided by FH Upper Austria.
+The statutory declaration must also acknowledge the use of both sources and auxiliary tools (Hilfsmittel), including AI tools where applicable. Please use the official [thesis template](https://github.com/Digital-Media/HagenbergThesis) provided by our university.
 
 ### Content / Structure
 
