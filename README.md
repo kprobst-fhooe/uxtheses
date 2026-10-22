@@ -13,8 +13,8 @@ PS: If you are also interested in internships or jobs in the UX domain, feel fre
 
 It does not only showcase how a HGBThesis document may look like, but is also filled with lots of helpful information when it comes to working with LaTeX in general, including figures / tables / sourcecode / mathematical formulas, referencing of literature etc.
 
-- [HGBThesisTutorialDE](https://github.com/Digital-Media/HagenbergThesis/blob/main/documents/HgbThesisTutorialDE/main.pdf)
-- [HGBThesisTutorialEN](https://github.com/Digital-Media/HagenbergThesis/blob/main/documents/HgbThesisTutorialEN/main.pdf)
+- [HGBThesisTutorialDE](https://github.com/Digital-Media/HagenbergThesis/tree/main/documents/HgbThesisTutorialDE)
+- [HGBThesisTutorialEN](https://github.com/Digital-Media/HagenbergThesis/tree/main/documents/HgbThesisTutorialEN)
 
 
 ## Thesis Checklist 
