@@ -19,11 +19,16 @@ It does not only showcase how a HGBThesis document may look like, but is also fi
 
 ## Thesis Checklist 
 
-The following checklist is compiled based on my personal experience points, that have been missing or that have gone wrong in prior thesis.
-The purpose of this list is to help you consider these common issues and best practices when creating your own thesis:
+The following checklist is compiled based on my personal experience points, that have been unclear or missing in prior thesis.
+The purpose of this list is to help you avoid these common issues and rather consider some best practices when creating your own thesis:
 
 Important points are highlighted in **bold**, super-important points are indicated with ‼️
 
+### AI Usage 📢‼️
+
+Please note that, starting with the 2026/2027 academic year, all theses must include documentation of any AI tools used in the preparation of the thesis. Two documentation formats are available: a short version (Kurzfassung) and a long version (Langfassung). The required format is specified by the respective degree programme.
+
+The statutory declaration must also acknowledge the use of both sources and auxiliary tools (Hilfsmittel), including AI tools where applicable. Please use the official template provided by FH Upper Austria.
 
 ### Content / Structure
 
@@ -107,7 +112,7 @@ Important points are highlighted in **bold**, super-important points are indicat
 
 ### Supplementary Materials ‼️
 
-After submitting your thesis, you will be asked to submit supplementary materials (ideally as ZIP-file directly sent to me) including:
+**After submitting your thesis, you will be asked to submit supplementary materials (ideally as ZIP-file directly sent to me) including:**
 - PDF exports of any temporary (mostly web) sources, i.e., those that don't have a unique identifier such as an ISBN or DOI
 - Images used in the thesis in maximum quality, i.e., high-resolution pixel graphics, svg vector graphics
 - any types of documents created throughout the thesis process, e.g., concepts, structures, datasets...
