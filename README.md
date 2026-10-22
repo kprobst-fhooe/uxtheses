@@ -97,7 +97,7 @@ Important points are highlighted in **bold**, super-important points are indicat
 ### Final Check Before Submission
 
 - **‼️ Check Frontmatter:** Titel, Your Name, Your Study Program, Date (must match the submission date)
-- **‼️ Name of Supervisor:** Prof. Dr. Kathrin Probst, BSc, MSc (DE: FH-Prof.in Dr.in Kathrin Probst, BSc MSc) in my case, or the respective colleague of mine
+- **‼️ Name of Supervisor:** Prof. Dr. Kathrin Probst, BSc, MSc (DE: FH-Prof.in Dr.in Kathrin Probst, BSc MSc) if it's me -- or the name of the respective colleague of mine
 - **‼️ Declaration:** Your Name, Date (must match the submission date)
 - **Kurzfassung:** Content / Grammar / Spelling should be flawless
 - **Abstract:** Content / Grammar / Spelling should be flawless -> preferrably validated by a native speaker
